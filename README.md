@@ -1,7 +1,7 @@
 # RPC-Leaderboard
 
-## The Standard RPC Dataset Leaderboard
-53k single images to train, 24k checkout images to test
+## The RPC dataset leaderboard
+Experimental settings are consistent with the settings in [the RPC paper](dd): 53k single exemplar images for training, and 24k checkout images for test.
 
 | method               |   cAcc |  mCIoU |  ACD | mCCD |  mAP50 |   mmAP | link |
 | :---                 |   ---: |   ---: | ---: | ---: |   ---: |   ---: | :--- |
