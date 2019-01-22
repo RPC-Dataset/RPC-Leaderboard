@@ -1,6 +1,8 @@
 # RPC-Leaderboard
 
 
+<div style="text-align: justify">
+
 ## The RPC dataset leaderboard
 Experimental settings are consistent with the settings in [the RPC paper](dd): 53k single exemplar images for training, and 24k checkout images for test.
 
@@ -14,3 +16,5 @@ Experimental settings are consistent with the settings in [the RPC paper](dd): 5
 </br>
 
 If you have been successful in creating a model based on the training set and it performs well on the validation set, we encourage you to run your model on the test set. The [`rpctool`](https://github.com/DIYer22/retail_product_checkout_tools) will contribute to return the corresponding results of the evaluation metrics. You can submit your results on the RPC leaderboard by creating a new issue. Your results will be ranked in the leaderboard and to benchmark your approach against that of other machine learners. We are looking forward to your submission. Please click [RPC-Dataset/RPC-Leaderboard/issues](https://github.com/RPC-Dataset/RPC-Leaderboard/issues)
+
+</div>
