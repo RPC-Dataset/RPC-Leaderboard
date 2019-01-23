@@ -4,7 +4,7 @@
 <div style="text-align: justify">
 
 ## The RPC dataset leaderboard
-Experimental settings are consistent with the settings in [the RPC paper](dd): 53k single exemplar images for training, and 24k checkout images for test.
+Experimental settings are consistent with the settings in [the RPC paper](https://arxiv.org/abs/1901.07249): 53k single exemplar images for training, and 24k checkout images for test.
 
 | *Method*               |   *cAcc* |  *mCIoU* |  *ACD* | *mCCD* |  *mAP50* |   *mmAP* | *link* |
 | :---                 |   ---: |   ---: | ---: | ---: |   ---: |   ---: | :--- |
