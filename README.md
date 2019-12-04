@@ -12,6 +12,7 @@ Experimental settings are consistent with the settings in [the RPC paper](https:
 | Baseline: Render     | 45.60% | 90.58% | 1.25 |  0.1 | 95.50% | 72.76% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/2), [project](http://rpc-dataset.github.io) |
 | Baseline: Syn+Render | 56.68% | 93.19% | 0.89 | 0.07 | 96.57% | 73.83% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/3), [project](http://rpc-dataset.github.io) |
 | DPNet: Syn+Render    | 80.51% | 97.33% | 0.34 | 0.03 | 97.91% | 77.04% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/6), [paper](https://arxiv.org/abs/1904.04978) |
+| DPNet: Syn+Render    | 92.20% | 99.22% | 0.09 | 0.01 | 99.04% | 83.86% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/7) |
 
 </br>
 
