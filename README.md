@@ -8,6 +8,7 @@ Experimental settings are consistent with the settings in [the RPC paper](https:
 
 | *Method*             |   *cAcc* |  *mCIoU* |  *ACD* | *mCCD* |  *mAP50* |   *mmAP* | *link* |
 | :---                 |   ---: |   ---: | ---: | ---: |   ---: |   ---: | :--- |
+| CommNet v2           | 93.11% | 99.22% | 0.09 | 0.01 | 98.92% | 81.20% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/11) |
 | Eleme: Syn+Render    | 92.20% | 99.22% | 0.09 | 0.01 | 99.04% | 83.86% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/7) |
 | DPNet: Syn+Render    | 80.51% | 97.33% | 0.34 | 0.03 | 97.91% | 77.04% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/6), [paper](https://arxiv.org/abs/1904.04978) |
 | CommNet: Syn+Render  | 75.93% | 96.84% | 0.39 | 0.03 | 97.41% | 75.78% | [detail](https://github.com/RPC-Dataset/RPC-Leaderboard/issues/10) |
